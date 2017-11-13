@@ -2,11 +2,11 @@
   "name": "Geekbot",
   "version": "0.1.0",
   "description": "Utility, music, etc",
-  "main": "bot.js",
+  "main": "geekbot.js",
   "author": "FHGDev",
   "license": "ISC",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node geekbot.js"
   },
   "dependencies": {
     "discord.js": "^11.1.0"
