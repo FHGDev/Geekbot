@@ -4,7 +4,7 @@
   "description": "Utility, music, etc",
   "main": "bot.js",
   "author": "FHGDev",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "start": "node bot.js"
   },
