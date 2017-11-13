@@ -11,3 +11,5 @@ bot.on("message", (message) => {
     message.reply("Hello, how are you doing?")
   }
 })
+
+bot.login(process.env.botToken)
