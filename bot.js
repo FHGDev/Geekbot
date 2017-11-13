@@ -10,7 +10,7 @@ bot.on("message", message => {
   if (message.content == "Hey Geekbot!") {
     message.reply("hello, how are you doing?")
   }
-  if (message.author.username == "FreakingHulk Gaming#6545") {
+  if (message.author.username == "FreakingHulk") {
     message.author.sendMessage("GET TO YOUR WORK, HULK!")
   }
 })
