@@ -1,10 +1,10 @@
 {
-  "name": "JSGeekbot",
+  "name": "JSGeekbot,
   "version": "0.1.0",
   "description": "Utility, music, etc",
   "main": "bot.js",
   "author": "FHGDev",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "start": "node bot.js"
   },
