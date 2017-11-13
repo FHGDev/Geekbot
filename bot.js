@@ -10,7 +10,7 @@ bot.on("message", message => {
   if (message.content == "Hey Geekbot!") {
     message.reply("hello, how are you doing?")
   }
-  if (message.author.ID == '242734840829575169') {
+  if (message.author.ID == 242734840829575169) {
     message.author.sendMessage("GET TO YOUR WORK, HULK!")
   }
 })
