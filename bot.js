@@ -12,7 +12,7 @@ bot.on("message", message => {
     message.reply("hello, how are you doing?")
   }
   if (message.author.id == config.hulk) {
-    message.author.sendMessage("GET TO YOUR WORK, HULK!")
+    message.author.send("GET TO YOUR WORK, HULK!")
   }
 })
 
