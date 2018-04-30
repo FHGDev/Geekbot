@@ -1,6 +1,6 @@
 {
-  "name": "Hulkbot",
-  "version": "0.1.0",
+  "name": "Geekbot",
+  "version": "1.0.0",
   "description": "Utility, music, etc",
   "main": "bot.js",
   "author": "FHGDev",
@@ -9,6 +9,6 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "discord.js": "^11.1.0"
+    "discord.js": "^11.3.1"
   }
 }
