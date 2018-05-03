@@ -37,7 +37,7 @@ bot.on("message", message => {
   }
   
   if (message.content == "Hey Geekbot!") {
-    message.channel.send(`Hey, <@${message.author.username}>, how are you doing?`)
+    message.channel.send(`Hey, <@${message.author.id}>, how are you doing?`)
   }
 })
 
